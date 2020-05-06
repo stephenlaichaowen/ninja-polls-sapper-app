@@ -101,9 +101,9 @@ Click `Deploy site`
 ## Recommend Learning Resources
 
 ### Svelte Master / youtube channel
-[Svelte tutorial](https://www.youtube.com/watch?v=cU8ZPBKaEwU&list=PLcjHRSem_cvP440pjw79kB85Z_7Nn8VqZ)
-[Sapper tutorial](https://www.youtube.com/watch?v=kGfplN8HtlQ&list=PLcjHRSem_cvNDvCP3l6diqi7YBAsjfplL)
-[CSS/Component Libraries](https://www.youtube.com/watch?v=RBsNhhdPH0Q&list=PLcjHRSem_cvMiehtWg-fZiW9IbNNt9H0T)
+- [Svelte tutorial](https://www.youtube.com/watch?v=cU8ZPBKaEwU&list=PLcjHRSem_cvP440pjw79kB85Z_7Nn8VqZ)
+- [Sapper tutorial](https://www.youtube.com/watch?v=kGfplN8HtlQ&list=PLcjHRSem_cvNDvCP3l6diqi7YBAsjfplL)
+- [CSS/Component Libraries](https://www.youtube.com/watch?v=RBsNhhdPH0Q&list=PLcjHRSem_cvMiehtWg-fZiW9IbNNt9H0T)
 
 ### The Net Ninja / youtube channel
 [Svelte Tutorial for Beginners](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
