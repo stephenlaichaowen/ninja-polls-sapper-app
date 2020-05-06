@@ -27,8 +27,6 @@ npm run dev
 
 ## Project Structure
 
-![](https://stephenlaichaowen.github.io/my-assets/img/polls-project-structure.png)
-
 src
 - components
   - Header.svelte
